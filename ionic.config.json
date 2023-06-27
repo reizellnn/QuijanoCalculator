@@ -1,0 +1,7 @@
+{
+  "name": "QuijanoCalculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
